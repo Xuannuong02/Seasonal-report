@@ -1,49 +1,46 @@
-# Seasonal-report
-🎯 Project Title: Seasonal Sales Performance Dashboard – Marou Chocolate
-🗂 Domain: Retail & Food & Beverage
-📊 Tool: Power BI
-🧩 Role: Data Analyst
-📅 Duration: 2025 (Ongoing)
-🎯 Objective: To analyze and monitor sales performance of seasonal chocolate campaigns (e.g., Easter, Earth Day, TGDG), compare campaign results, and assist business teams in forecasting and strategic planning.
+# 🌟 Seasonal-report  
 
-✅ Key Contributions:
-Built dynamic dashboards in Power BI to visualize sales trends across seasonal campaigns, stores, and product categories.
+## 🎯 Project Title: Seasonal Sales Performance Dashboard – Marou Chocolate
 
-Designed a DayIndex logic to align different campaign timelines, enabling like-for-like comparison between campaigns such as Earth Day 2024 and TGDG 2025.
+### 🗂 Domain: Retail & Food & Beverage  
+### 📊 Tool: Power BI  
+### 🧩 Role: Data Analyst  
+### 📅 Duration: 2025 (Ongoing)  
 
-Developed custom DAX measures to calculate and compare:
+## 🎯 Objective  
+To analyze and monitor the sales performance of seasonal chocolate campaigns (e.g., Easter, Earth Day, TGDG), compare results across campaigns, and support business teams in forecasting and strategic decision-making.
 
-Net revenue per day and per item
+---
 
-% achievement vs forecast
+## ✅ Key Contributions
+- Built **interactive Power BI dashboards** to visualize sales trends across seasonal campaigns, stores, and product categories.
+- Designed a custom **DayIndex logic** to align different campaign timelines, enabling direct comparison of daily sales performance (e.g., Earth Day 2024 vs TGDG 2025).
+- Developed custom **DAX measures** to calculate and compare:
+  - Net revenue per day and per product
+  - % Achievement vs Forecast
+  - Revenue growth vs previous campaigns
+- Integrated forecast data with actuals to identify **underperforming and overperforming products**.
+- Created **store-level rankings and filters** by store type, region, and campaign to support business insights and decision-making.
 
-Revenue growth vs previous campaigns
+---
 
-Integrated forecast data vs actual sold quantity to identify under- and over-performing products.
+## 📌 Key Metrics & Insights Delivered
+- Tracked over **35,000 units sold**, generating **10+ billion VND** in revenue during **Easter 2025**.
+- Highlighted best-selling SKUs such as **Easter Bonbon 15PCS** and **Easter Mandarins 100G**.
+- Identified top-performing stores including **Calmette - HCM** and **Tho Nhuom - Hanoi**.
+- Flagged products with low forecast accuracy (e.g., <50%), aiding improvements in future planning.
+- Delivered insights on **packaging demand, remaining inventory**, and **MTD (month-to-date) trends**.
 
-Created store-level ranking and filters by store type, region, and campaign, helping managers pinpoint performance gaps.
+---
 
-📌 Key Metrics & Insights Delivered:
-Tracked over 35K+ units sold, generating 10+ billion VND in revenue during Easter 2025.
+## 👥 Collaboration
+- Collaborated closely with the **Product Owner (IT - DA)** and **Data Owner** to ensure alignment with business objectives.
+- Supported the **Sales and Operations teams** with real-time campaign tracking and post-campaign evaluations.
 
-Highlighted top-performing SKUs (e.g., Easter Bonbon 15PCS, Easter Mandarins 100G).
+---
 
-Identified stores with highest sales contributions (e.g., Calmette - HCM, Tho Nhuom - Hanoi).
-
-Pinpointed products with low forecast accuracy (e.g., <50%) to improve future planning.
-
-Delivered actionable insights on packaging demand, unsold inventory, and MTD trends.
-
-👨‍💼 Collaboration:
-Worked closely with the Product Owner (IT - DA) and Data Owner to align metrics with business goals.
-
-Supported sales and operations teams by providing real-time campaign tracking and post-campaign reviews.
-
-🔧 Tools & Skills Used:
-Power BI: Report builder, DAX, relationships, visual customization
-
-DAX: Time intelligence, campaign comparison, custom measures
-
-Data modeling: Forecast vs actual, product and store dimensions
-
-Communication: Translating business questions into data-driven stories
+## 🔧 Tools & Skills
+- **Power BI**: Report builder, data modeling, relationship management, visual customization  
+- **DAX**: Time intelligence, dynamic comparison logic, advanced measures  
+- **Data Modeling**: Forecast vs actual, product & store performance tracking  
+- **Business Communication**: Translating analytical results into actionable business insights
