@@ -13,6 +13,11 @@
 To analyze and monitor the sales performance of seasonal chocolate campaigns (e.g., Easter, Earth Day, TGDG), compare results across campaigns, and support business teams in forecasting and strategic decision-making.
 
 ---
+## 🗃 Data Sources
+- **Sales Actual (Real-time):** Extracted using SQL from the enterprise data warehouse  
+- **Sales Forecast:** Provided entirely by the Product Owner in pre-defined forms
+  
+- --
 
 ## ✅ Key Contributions
 - Built **interactive Power BI dashboards** to visualize sales trends across seasonal campaigns, stores, and product categories.
