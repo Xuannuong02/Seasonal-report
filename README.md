@@ -7,6 +7,8 @@
 ### 🧩 Role: Data Analyst  
 ### 📅 Duration: 2025 (Ongoing)  
 
+---
+
 ## 🎯 Objective  
 To analyze and monitor the sales performance of seasonal chocolate campaigns (e.g., Easter, Earth Day, TGDG), compare results across campaigns, and support business teams in forecasting and strategic decision-making.
 
@@ -25,22 +27,24 @@ To analyze and monitor the sales performance of seasonal chocolate campaigns (e.
 ---
 
 ## 📌 Key Metrics & Insights Delivered
-- Tracked over **35,000 units sold**, generating **10+ billion VND** in revenue during **Easter 2025**.
+- Tracked over **35,000+ units sold**, generating **10+ billion VND** in revenue during **Easter 2025**.
 - Highlighted best-selling SKUs such as **Easter Bonbon 15PCS** and **Easter Mandarins 100G**.
 - Identified top-performing stores including **Calmette - HCM** and **Tho Nhuom - Hanoi**.
 - Flagged products with low forecast accuracy (e.g., <50%), aiding improvements in future planning.
-- Delivered insights on **packaging demand, remaining inventory**, and **MTD (month-to-date) trends**.
+- Delivered insights on **packaging demand**, **remaining inventory**, and **MTD (month-to-date) sales trends**.
 
 ---
 
 ## 👥 Collaboration
 - Collaborated closely with the **Product Owner (IT - DA)** and **Data Owner** to ensure alignment with business objectives.
-- Supported the **Sales and Operations teams** with real-time campaign tracking and post-campaign evaluations.
+- Supported the **Sales and Operations teams** with real-time campaign tracking and post-campaign performance reviews.
 
 ---
 
-## 🔧 Tools & Skills
+## 🔧 Tools & Skills Used
 - **Power BI**: Report builder, data modeling, relationship management, visual customization  
-- **DAX**: Time intelligence, dynamic comparison logic, advanced measures  
-- **Data Modeling**: Forecast vs actual, product & store performance tracking  
-- **Business Communication**: Translating analytical results into actionable business insights
+- **DAX**: Time intelligence, dynamic comparison logic, custom performance measures  
+- **Data Modeling**: Forecast vs actuals, product hierarchy, store-level breakdown  
+- **Business Communication**: Translating data into actionable insights for decision-makers
+
+---
