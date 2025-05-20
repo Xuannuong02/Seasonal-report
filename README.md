@@ -48,3 +48,13 @@ To analyze and monitor the sales performance of seasonal chocolate campaigns (e.
 - **Business Communication**: Translating data into actionable insights for decision-makers
 
 ---
+## Image
+![image](https://github.com/user-attachments/assets/d89cb31e-d3b1-4241-ad47-8b91c025adcc)
+![image](https://github.com/user-attachments/assets/245f98e2-2ae1-4bae-93f5-0a90f21e0daf)
+![image](https://github.com/user-attachments/assets/4b1bc41a-5da2-4eb0-82b5-51265df7ad82)
+![image](https://github.com/user-attachments/assets/85837c95-09cc-4e5a-b8f6-5c3ba6875b53)
+
+
+
+
+
